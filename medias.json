@@ -1,0 +1,14 @@
+{
+  "medias": [
+    {
+      "id": 1,
+      "isBackground": true,
+      "base64": "asdas"
+    },
+    {
+      "id": 2,
+      "isBackground": false,
+      "base64": "asdas"
+    }
+  ]
+}
